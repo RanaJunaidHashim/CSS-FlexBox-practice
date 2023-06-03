@@ -1,0 +1,141 @@
+.container{
+background-color: white;
+display: flex;
+position: relative;
+gap: 50px;
+
+}
+.container1{
+    display: flex;
+height: 600px;
+width: 500px;
+align-items: center;
+border: dashed;
+}
+.item1{
+    background-color: rgb(14, 201, 107);
+    margin: 10px;
+    padding: 2px;
+    height: 500px;
+    width: 100px;
+    line-height: 10px;
+    text-align: center;
+    border-radius: 5px;
+}
+.item2{
+    background-color: rgb(41, 182, 238);
+     margin: 10px; 
+    height: 250px;
+    width: 170px;
+    line-height: 10px;
+    padding: 2px;
+    text-align: center;
+    border-radius: 5px;
+}
+.item3{
+    background-color: rgb(14, 201, 107);
+    margin: 10px;
+    height: 500px;
+    width: 100px;
+    line-height: 10px;
+    padding: 2px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+
+
+.container2{
+    display: flex;
+    height: 100px;
+    width: 700px;
+    border: dashed;
+    }
+    .item4{
+        background-color: rgb(201, 14, 108);
+        margin: 10px 50px 10px 10px;
+        padding: 0px;
+        height: 70px;
+        width: 300px;
+        line-height: 10px;
+        text-align: center;
+        border-radius: 5px;
+    }
+    .item5{
+        background-color: rgb(41, 182, 238);
+         margin: 10px 10px 10px 50px;
+        height: 70px;
+        width: 300px;
+        line-height: 10px;
+        padding: 0px;
+        text-align: center;
+        border-radius: 5px;
+    }
+
+/*
+    .items{
+        
+background-color: white;
+display: flex;
+    } */
+.container3{
+    display: flex;
+    height: 400px;
+    width: 250px;
+    border: dashed;
+    flex-wrap: wrap;
+    bottom: 500px;
+    position: absolute;
+    bottom: 0px;
+    right: 50px;
+
+    }
+    .item6{
+        background-color: rgba(70, 14, 201, 0.76);
+        margin: 10px;
+        height: 100px;
+        width: 100px;
+        padding: 0px;
+        border-radius: 5px;
+    }
+    .item7{
+        background-color: rgba(201, 89, 14, 0.747);
+        margin: 10px;
+        height: 100px;
+        width: 100px;
+        padding: 0px;
+        border-radius: 5px;
+    }
+    .item8{
+        background-color: rgba(201, 89, 14, 0.747);
+        margin: 10px;
+        height: 100px;
+        width: 100px;
+        padding: 0px;
+        border-radius: 5px;
+    }
+    
+    .item9{
+        background-color: rgba(70, 14, 201, 0.76);
+        margin: 10px;
+        height: 100px;
+        width: 100px;
+        padding: 0px;
+        border-radius: 5px;
+    }
+    .item10{
+        background-color: rgba(70, 14, 201, 0.76);
+        margin: 10px;
+        height: 100px;
+        width: 100px;
+        padding: 0px;
+        border-radius: 5px;
+    }
+    .item11{
+        background-color: rgba(201, 89, 14, 0.747);
+        margin: 10px;
+        height: 100px;
+        width: 100px;
+        padding: 0px;
+        border-radius: 5px;
+    }
